@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>icons/001.GIF</file>
+        <file>icons/100.bmp</file>
+        <file>icons/104.bmp</file>
+        <file>icons/106.bmp</file>
+        <file>icons/112.bmp</file>
+        <file>icons/114.bmp</file>
+        <file>icons/116.bmp</file>
+        <file>icons/120.bmp</file>
+        <file>icons/122.bmp</file>
+        <file>icons/128.bmp</file>
+        <file>icons/132.bmp</file>
+        <file>icons/200.bmp</file>
+        <file>icons/202.bmp</file>
+        <file>icons/204.bmp</file>
+        <file>icons/206.bmp</file>
+        <file>icons/208.bmp</file>
+        <file>icons/212.bmp</file>
+        <file>icons/218.bmp</file>
+        <file>icons/220.bmp</file>
+        <file>icons/322.bmp</file>
+        <file>icons/324.bmp</file>
+        <file>icons/500.bmp</file>
+        <file>icons/502.bmp</file>
+        <file>icons/504.bmp</file>
+        <file>icons/506.bmp</file>
+        <file>icons/508.bmp</file>
+        <file>icons/510.bmp</file>
+        <file>icons/512.bmp</file>
+        <file>icons/514.bmp</file>
+        <file>icons/516.bmp</file>
+        <file>icons/718.bmp</file>
+        <file>icons/724.bmp</file>
+        <file>icons/728.bmp</file>
+        <file>icons/app.ico</file>
+        <file>icons/CN.jpg</file>
+        <file>icons/CN2.jpg</file>
+        <file>icons/timg2.jpg</file>
+    </qresource>
+</RCC>
